@@ -1,0 +1,2 @@
+rootProject.name='TIA Implicit Intents'
+include ':app'
